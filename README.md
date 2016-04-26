@@ -7,7 +7,7 @@ This is demo of how to use WindowManager
 
 Demo
 ====
- ![image](https://github.com/chenzongwen/Drawer/blob/master/device-2016-04-26-141720.png)
+ ![image](https://github.com/chenzongwen/FloatWindow/blob/master/device-2016-04-26-141720.png)
 
 
 Author
